@@ -1,0 +1,1 @@
+# stock-portfolio-annualized-return-calculation
